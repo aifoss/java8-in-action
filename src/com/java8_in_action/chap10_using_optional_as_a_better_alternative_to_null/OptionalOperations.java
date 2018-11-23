@@ -1,4 +1,4 @@
-package com.java8_in_action.chap10_using_optional_as_a_btter_alternative_to_null;
+package com.java8_in_action.chap10_using_optional_as_a_better_alternative_to_null;
 
 import java.util.Optional;
 
